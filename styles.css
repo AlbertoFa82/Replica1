@@ -1,3 +1,21 @@
+nav{
+    text-align: center;
+}
+li{
+    list-style-type: none;
+    display: inline;margin: 2%;
+}
+.ubicacion{
+    text-align: left;
+}
+body{
+    font-family: sans-serif;
+}
+.img{
+    width: 90px;
+    height: 60px;
+}
+
 .colections {
     width: 100%;
     margin: 0 auto;
